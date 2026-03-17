@@ -2,6 +2,13 @@
   <h1>Robot Móvil Autónomo</h1>
   <p><i>Implementación de navegación y evitación de obstáculos en Webots</i></p>
 
+  <div>
+    <img src="https://img.shields.io/badge/Webots-R2025a-blue?style=for-the-badge&logo=ubisoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/VRML-World%20Files-orange?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Algorithms-Obstacle%20-red?style=for-the-badge" />
+  </div>
+
 ---
 
 ## Descripción
